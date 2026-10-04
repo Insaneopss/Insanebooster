@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Insane Booster</string>
+    <string name="title_activity_main">Insane Booster</string>
+    <string name="package_name">com.insane.booster</string>
+    <string name="custom_url_scheme">com.insane.booster</string>
+</resources>
